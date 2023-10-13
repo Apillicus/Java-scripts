@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=class\ Items
+comment1.params=name
+comment1.target=Item\ get(String)
+comment2.params=
+comment2.target=double\ getTotalWeight()
+comment3.params=
+comment3.target=Items()
+comment3.text=\nCreate\ a\ new\ item\ list.\n\n
+comment4.params=
+comment4.target=String\ getLongDescription()
+comment4.text=\nReturn\ a\ string\ listing\ the\ items\ in\ the\ list.\n\n
+comment5.params=name
+comment5.target=Item\ remove(String)
+comment5.text=public\ Iterator\ iterator()\ {\nreturn\ items.values().iterator();\n}\n
+comment6.params=
+comment6.target=Iterator\ iterator()
+comment7.params=name\ value
+comment7.target=void\ put(String,Item)
+comment8.params=
+comment8.target=String\ getShortDescription()
+comment8.text=\nReturn\ a\ string\ listing\ the\ items\ in\ the\ list.\n\n
+comment9.target=items
+numComments=10
